@@ -6,7 +6,7 @@ Go is an open source programming language designed for building simple, fast, an
 
 Go by Example is a hands-on introduction to Go using annotated example programs. Check out the first example or browse the full list below.
 
-- [ ] [Hello World](https://gobyexample.com/hello-world)
+- [x] [Hello World](https://gobyexample.com/hello-world)
 - [ ] [Values](https://gobyexample.com/values)
 - [ ] [Variables](https://gobyexample.com/variables)
 - [ ] [Constants](https://gobyexample.com/constants)
